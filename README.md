@@ -1,1 +1,1 @@
-# corporate-cicd-pipeline-projec
+# corporate-cicd-pipeline-project
